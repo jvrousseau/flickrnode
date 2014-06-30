@@ -1,0 +1,25 @@
+{
+  "name": "flickrnode",
+  "description": "Flickr Node API",
+  "version": "0.1.0",
+  "author": {
+    "name": "ciaranj / Kenson Goo",
+    "email": "kensongoo@gmail.com",
+    "url": "packager"
+  },
+  "keywords": [
+    "flickr",
+    "api",
+    "oauth"
+  ],
+  "main": "flickr",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "readme": "NPM package for FlickrNode",
+  "_id": "flickrnode@0.1.0",
+  "_from": "flickrnode"
+}
